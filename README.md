@@ -1,7 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/mdriazuddinriad5/mdriazuddinriad5/main/git_cover.png)
 
-# 💫 About Me:
-Hello there! I'm a passionate MERN stack developer with a primary focus on front-end technologies. I find joy in translating ideas into beautifully crafted and interactive user interfaces. Currently, I'm immersed in the development of my personal project, the "Employee Management System," where I apply my skills to streamline and enhance workplace processes. 
+# 👨‍💻 Profile Overview:
+Hello! I'm Md Riaz Uddin Riad, a front-end focused MERN stack developer with a passion for building captivating and user-friendly web applications. Here's a quick snapshot of my skills and interests:
+
+🚀 Expertise: Front-end development, MERN (MongoDB, Express.js, React, Node.js) stack.<br>
+💡 Current Project: Working on the "Employee Management System" to create efficient workplace solutions.<br>
+📚 Learning: Actively exploring Next.js to stay on the cutting edge of web development.<br>
+🔍 Ask Me About: Anything related to MERN stack, front-end design, or development challenges.<br>
+📈 Fun Fact: I have a remarkable memory for statistics and enjoy delving into data-driven insights.<br><br>
+Let's connect, collaborate, and create awesome web experiences together! Feel free to explore my repositories and don't hesitate to reach out for discussions or project ideas. 
 
 
 
