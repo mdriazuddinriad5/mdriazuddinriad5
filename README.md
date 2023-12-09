@@ -1,4 +1,4 @@
-![Banner](link-to-your-banner-image.png)
+![Banner](https://raw.githubusercontent.com/mdriazuddinriad5/mdriazuddinriad5/main/git_cover.png)
 
 # 💫 About Me:
 I am a front end focused mern stack developer. <br>I am currently working on my personal project named Employee management system.<br>I am currently learning Next.js<br>Ask me about MERN<br>Fun fact: I remember stats very well. 
